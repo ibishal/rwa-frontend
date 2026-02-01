@@ -1,0 +1,5 @@
+{
+  "name": "ZeroTrade Institutional",
+  "description": "Privacy-preserving institutional trading platform for tokenized real-world assets using ZK-proofs and atomic settlement.",
+  "requestFramePermissions": []
+}
